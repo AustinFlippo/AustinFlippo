@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello! I'm Austin
 
-<!--
-**AustinFlippo/AustinFlippo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year **Data Science** major at **UC San Diego** who enjoys building practical, human-centered tools with data and software. I like taking ideas from concept to execution, wthrough full-stack projects, analytics, and experimenting with AI-powered systems.
 
-Here are some ideas to get you started:
+Lately, I’ve been especially interested in using data and automation to help people make better decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Project
+
+**[TritonPlanner](https://tritonplanner.com)**  
+An AI-powered academic planning tool built for UC San Diego students. TritonPlanner helps students visualize degree progress, explore courses, and generate optimized multi-year schedules using real academic data.
+
+---
+
+- [LinkedIn](www.linkedin.com/in/atmflippo)
