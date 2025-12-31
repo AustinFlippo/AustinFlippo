@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Austin
 
-I'm a second-year **Data Science** major at **UC San Diego** who enjoys building practical, human-centered tools with data and software. I like taking ideas from concept to execution, wthrough full-stack projects, analytics, and experimenting with AI-powered systems.
+I'm a second-year **Data Science** major at **UC San Diego** who enjoys building practical, human-centered tools with data and software. I like taking ideas from concept to execution, through full-stack projects, analytics, and experimenting with AI-powered systems.
 
 Lately, I’ve been especially interested in using data and automation to help people make better decisions.
 
