@@ -12,5 +12,3 @@ Lately, I’ve been especially interested in using data and automation to help p
 An AI-powered academic planning tool built for UC San Diego students. TritonPlanner helps students visualize degree progress, explore courses, and generate optimized multi-year schedules using real academic data.
 
 ---
-
-- [LinkedIn](www.linkedin.com/in/atmflippo)
