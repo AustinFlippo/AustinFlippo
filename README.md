@@ -8,7 +8,7 @@ Lately, I’ve been especially interested in using data and automation to help p
 
 ## Featured Projects
 
-**[TritonPlanner](https://tritonplanner.com)** (co-founder)  
+**[TritonPlanner](https://tritonplanner.com)** (co-founder):
 An AI-powered academic planning tool built for UC San Diego students. TritonPlanner helps students visualize degree progress, explore courses, and build optimized multi-year schedules using real academic data.\
 
 ---
