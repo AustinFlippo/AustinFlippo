@@ -8,9 +8,8 @@ Lately, I’ve been especially interested in using data and automation to help p
 
 ## Featured Projects
 
-**[TritonPlanner](https://tritonplanner.com)**  
+#### **[TritonPlanner](https://tritonplanner.com)**  
 An AI-powered academic planning tool built for UC San Diego students. TritonPlanner helps students visualize degree progress, explore courses, and build optimized multi-year schedules using real academic data.
 
-**ChatSight**
-
+#### **ChatSight**
 An analytics dashboard for  AI tutor used in DSC 10 (Principles of Data Science) at UC San Diego. ChatSight analyzes student–tutor interactions to surface usage patterns, learning signals, and areas where students struggle, supporting over 200 student users each quarter.
